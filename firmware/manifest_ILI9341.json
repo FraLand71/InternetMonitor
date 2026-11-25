@@ -1,0 +1,15 @@
+{
+  "name": "Internet Monitor ILI9341",
+  "version": "2.5",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "InternetMonitor_ILI9341.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
