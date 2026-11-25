@@ -1,0 +1,15 @@
+{
+  "name": "Internet Monitor ST7789",
+  "version": "2.5",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "InternetMonitor_ST7789.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
